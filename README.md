@@ -31,10 +31,10 @@ Zeitraum: _[z. B. 2022–2025]_
 | Block / Meilenstein | Zeitraum | Aufgaben | Verantwortlich |
 |---|---|---|---|
 | **M1 Roadmap** | bis 13.11.2026 | Thema, Quellen + Lizenzen, Forschungsfragen, Repo-Setup | alle |
-| Datenbeschaffung | 14.11.–27.11. | Download Zählstellen + DWD; Scraper für Eventkalender | _[Name]_ / _[Name]_ |
-| Datenaufbereitung | 28.11.–11.12. | Bereinigung (fehlende Werte, Ausreißer, Zeitzonen), Join über Datum/Stunde, Data Dictionary | _[Name]_ / _[Name]_ |
+| Datenbeschaffung | 14.11.–27.11. | Download Zählstellen + DWD; Scraper für Eventkalender | _[Arda]_ / _[Elias]_ |
+| Datenaufbereitung | 28.11.–11.12. | Bereinigung (fehlende Werte, Ausreißer, Zeitzonen), Join über Datum/Stunde, Data Dictionary | _[Elias]_ / _[Mertkaan]_ |
 | **M2 Datensatz** | bis 18.12.2026 | angereicherter Datensatz online, Pipeline-Prototyp als Jupyter Notebook, Doku (Quellen, Lizenzen, Cleaning-Schritte), World Café | alle |
-| Analyse | 08.01.–20.01. | explorative Analyse, Visualisierungen, Hypothesentests (z. B. Regen vs. kein Regen, Werktag vs. Wochenende) | _[Name]_ / _[Name]_ |
+| Analyse | 08.01.–20.01. | explorative Analyse, Visualisierungen, Hypothesentests (z. B. Regen vs. kein Regen, Werktag vs. Wochenende) | _[Mertkaan]_ / _[Arda]_ |
 | Repo-Stichtag | 22.01.2027, 23:59 | Code, Notebook und Doku final im Repo | alle |
 | **M3 Präsentation** | 25.01.2027 | Ergebnisse präsentieren, Notebook live zeigen | alle |
 
