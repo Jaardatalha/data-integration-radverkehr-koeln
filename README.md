@@ -1,7 +1,7 @@
 # Radverkehr in Köln: Wetter, Wochentag und Events
 
 **DIS 3.3 Data Integration · WS 2026/27 · TH Köln**
-Gruppe: _[Radverkehr in Köln]_ · Mitglieder: _[Arda S.]_, _[Mertkaan M.]_, _[Elias Y.]_
+Gruppe: _[Radverkehr in Köln]_ · Mitglieder: _[Arda S.]_, _[Mertkaan M.]_, _[Elias R.]_
 
 ## Thema
 
