@@ -1,7 +1,7 @@
 # Radverkehr in Köln: Wetter, Wochentag und Events
 
 **DIS 3.3 Data Integration · WS 2026/27 · TH Köln**
-Gruppe: _[Gruppenname]_ · Mitglieder: _[Name 1]_, _[Name 2]_, _[Name 3]_, _[Name 4]_
+Gruppe: _[Radverkehr in Köln]_ · Mitglieder: _[Arda S.]_, _[Mertkaan M.]_, _[Elias Y.]_
 
 ## Thema
 
@@ -50,5 +50,5 @@ docs/             # Data Dictionary, Quellen und Lizenzen
 
 ## Arbeitsweise
 
-- Wöchentliches Team-Meeting: _[Tag/Uhrzeit]_
+- Wöchentliches Team-Meeting: _[Samstag/14:00 Uhr]_
 - Aufgaben als GitHub Issues, Änderungen per Branch + Pull Request
